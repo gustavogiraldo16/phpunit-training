@@ -23,8 +23,8 @@ class Operation
         return $num1 + $num2;
     }
 
-    public function division(int $dividend, int $divisor): float
-    {
-        return $dividend / $divisor;
-    }
+    // public function division(int $dividend, int $divisor): float
+    // {
+    //     return $dividend / $divisor;
+    // }
 }
