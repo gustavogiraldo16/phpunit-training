@@ -23,6 +23,7 @@ class Operation
         return $num1 + $num2;
     }
 
+    // DivisionByZeroError('Error: Division by zero.')
     // public function division(int $dividend, int $divisor): float
     // {
     //     return $dividend / $divisor;
