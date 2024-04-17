@@ -1,5 +1,5 @@
 {
-    "name": "interservicios/phpunit",
+    "name": "gustavogiraldo16/phpunit",
     "description": "Ejemplos para PHPUnit",
     "type": "project",
     "autoload": {
@@ -14,8 +14,7 @@
     },
     "authors": [
         {
-            "name": "Gustavo Giraldo",
-            "email": "gustavo.giraldo@interservicios.com"
+            "name": "Gustavo Giraldo"
         }
     ],
     "require-dev": {
